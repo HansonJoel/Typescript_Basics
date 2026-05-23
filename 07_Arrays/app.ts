@@ -12,3 +12,11 @@ let people: (string | number)[] = ["john", 28, "male", 1000]; // This array will
 people.push("mark");
 
 console.log(people);
+
+// for (let i of birthYear) {
+//   console.log(i);
+// }
+
+// for (let i = 0; i <= birthYear.length; i++) {
+//   console.log(birthYear[i]);
+// }
