@@ -8,7 +8,7 @@ let firstName: string[] = [];
 firstName.push("eddy");
 console.log(firstName);
 
-let people: (string | number)[] = ["john", 28, "male", 1000];
+let people: (string | number)[] = ["john", 28, "male", 1000]; // This array will accepts only add string and Numbers
 people.push("mark");
 
 console.log(people);
